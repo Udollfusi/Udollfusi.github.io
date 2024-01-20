@@ -1,0 +1,21 @@
+A major obstacle to widespread acceptance of formal verification is
+the difficulty in using the tools effectively.  Although learning the
+basic syntax and operation of a formal verification tool may be easy,
+expert users are often able to accomplish a verification task while a
+novice user encounters time-out or space-out attempting the same task.
+In this thesis, we assert that often a novice user will model a system
+in a different manner --- semantically equivalent, but less efficient
+for the verification tool --- than an expert user would, that some of
+these inefficient modeling choices can be easily detected at the
+source-code level, and that a robust verification tool should identify
+these inefficiencies and optimize them, thereby helping to close the
+gap between novice and expert users.  To test our hypothesis, we
+propose some possible optimizations for the Murphi verification
+system, implement one of these, and compare the results on a variety
+of examples written by both experts and novices (the Murphi
+distribution examples, a set of cache coherence protocol models, and a
+portion of the IEEE 1394 Firewire protocol).  The results support our
+assertion --- a nontrivial fraction of the Murphi models written by
+novice users were significantly accelerated by the single
+optimization.  Our findings strongly support further research in this
+area.

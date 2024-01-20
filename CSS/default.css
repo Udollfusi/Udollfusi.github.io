@@ -1,0 +1,52 @@
+	body {	background: #D4D4D4;
+		color: #000000;
+		font-size: 12pt;}
+ table,tr,td {	font-family: Verdana,sans-serif;}
+ body, table.body, td.body {
+		font-family: Georgia,serif;}
+
+  h1, h2, h3, h4, h5, h6 {
+		font-family: Verdana,serif;}
+
+      .plus1 {	font-size: 14pt;}
+  h3, .plus2 {	font-size: 16pt;}
+  h2, .plus3 {	font-size: 20pt;}
+  h1, .plus4 {	font-size: 24pt;}
+
+     .minus1 {	font-size: 11pt;}
+     .minus2 {	font-size: 10pt;}
+     .minus3 {	font-size: 8pt;}
+     .minus4 {	font-size: 6pt;}
+
+	   a {	text-decoration: none; }
+		/*font-family: Verdana,sans-serif;}*/
+      a:link {	background: #D4D4D4 ; color: #000080; }
+   a:visited {	background: #D4D4D4 ; color: #000080; }
+    a:active {	background: #D4D4D4 ; color: #FF0000; }
+
+	  hr {	background: #D4D4D4 ; color: #800080;}
+
+     .header {	font-family: Verdana,sans-serif;}
+
+     .footer {	font-size: 10pt;
+		font-family: Verdana,sans-serif;}
+
+      .serif {	font-family: Georgia,serif;}
+ .sans-serif {	font-family: Verdana,sans-serif;}
+ .face-georgia {
+		font-family: Georgia,serif;}
+ .face-verdana {
+		font-family: Verdana,sans-serif;}
+ .face-trebuchet {
+		font-family: Trebuchet,sans-serif;}
+
+div.validate {
+  margin: 0;
+  position: fixed;
+  bottom: 2ex;
+  left: auto;
+  width: 180px;
+  right: 1em;
+  font-size: 10pt;
+  font-family: Verdana,Helvetica,sans-serif;
+}
