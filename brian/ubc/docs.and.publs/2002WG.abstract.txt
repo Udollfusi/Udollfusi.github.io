@@ -1,0 +1,16 @@
+This paper presents a novel variation of wave pipelining that
+we call ``surfing.''  In previous wave pipelined designs,
+timing uncertainty grows monotonically as events propagate
+through gates or other logic elements.  We bound this
+dispersion by propagating a timing pulse along with the data
+values.  Our logic elements have delays that are smaller in
+the presence of the pulse than in its absence.  This produces
+a ``surfing'' effect:  events are bound in close proximity to
+the timing pulse.  We demonstrate this approach with the
+design of a 4x12 multiplier.  Spice simulations from the
+extracted layout indicate that this design is robust in the
+presence of fabrication parameter variation and power supply
+noise.  Because timing is maintained by accelerating the
+logic, our designs achieve lower latency than their purely
+combinational equivalents.  Thus, the control overhead for
+these designs is indeed negative.
