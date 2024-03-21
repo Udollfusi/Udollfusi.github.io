@@ -7,7 +7,7 @@ resourceDir = "../resources"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 # Paginate = 3
-googleAnalytics = ""
+#googleAnalytics = ""
 enableRobotsTXT = true
 
 [sitemap]
