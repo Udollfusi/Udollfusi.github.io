@@ -1,42 +1,30 @@
 baseURL = 'https://Udollfusi.github.io/'
 languageCode = 'en-us'
 title = '6by9'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+theme = 'hugo-coder'
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-# Paginate = 3
-#googleAnalytics = ""
+sectionPagesMenu = 'main'
+
+enableEmoji = true
 enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
 [params]
-  text_color = "near-black"
-  author = " Brian Winters"
-  site_logo = "favicons/favicon-32x32.png"
-  #description = ""
-  copyright = "copyright &copy; Brian Winters"
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-blue"
-  recent_posts_number = 3
-  enableGitInfo = true
+  author = "Brian Winters"
+  fediverseCreator = "@Udollfusi@techhub.social"
+  since = 2024
+  colorScheme = "dark"
+  hidecolorschemetoggle = true
 
-[[params.ananke_socials]]
+[[params.social]]
   name = "mastodon"
+  icon = "fa-brands fa-mastodon fa-2x"
   url = "https://techhub.social/@Udollfusi"
-  rel = "me noopener"
-[[params.ananke_socials]]
+[[params.social]]
   name = "github"
+  icon = "fa-brands fa-github fa-2x"
   url = "https://github.com/Udollfusi"
-#[[params.ananke_socials]]
-#  name = "twitter"
-#  url = "https://twitter.com/bdwinters"
-#[[params.ananke_socials]]
-#  name = "facebook"
-#  url = "https://facebook.com/"
-#  follow = false
+
+[[menu.main]]
+  name = "BG3"
+  weight = 1
+  url = "bg3/"
