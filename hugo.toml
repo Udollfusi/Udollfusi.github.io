@@ -25,6 +25,6 @@ enableRobotsTXT = true
   url = "https://github.com/Udollfusi"
 
 [[menu.main]]
-  name = "BG3"
+  name = "42"
   weight = 1
-  url = "bg3/"
+  url = "42/"

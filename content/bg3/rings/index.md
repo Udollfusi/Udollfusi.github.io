@@ -1,7 +1,6 @@
 +++
 date = '2024-11-11T11:28:24-08:00'
-draft = true
-title = "Baldur's Gate 3 Rings"
+title = "Rings"
 +++
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
 
