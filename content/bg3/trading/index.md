@@ -1,6 +1,5 @@
 +++
 date = '2024-11-11T20:59:04-08:00'
-draft = true
 title = 'Trading'
 +++
 
