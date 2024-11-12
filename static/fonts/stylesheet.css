@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Cadman';
+    src: url('Cadman_Roman-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadman';
+    src: url('Cadman_Italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadman';
+    src: url('Cadman_BoldItalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadman';
+    src: url('Cadman_Bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Komika Text';
+    src: url('KOMTXT__-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Komika Text';
+    src: url('KOMTXTI_-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Komika Text';
+    src: url('KOMTXTBI-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Komika Text';
+    src: url('KOMTXTB_-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Serious Shanns';
+    src: url('seriousshanns-regular-webfont.woff2') format('woff2'),
+         url('seriousshanns-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Serious Shanns';
+    src: url('seriousshanns-bold-webfont.woff2') format('woff2'),
+         url('seriousshanns-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Serious Shanns';
+    src: url('seriousshanns-italic-webfont.woff2') format('woff2'),
+         url('seriousshanns-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Serious Shanns';
+    src: url('seriousshanns-bolditalic-webfont.woff2') format('woff2'),
+         url('seriousshanns-bolditalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Serious Shanns';
+    src: url('seriousshanns-light-webfont.woff2') format('woff2'),
+         url('seriousshanns-light-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Serious Shanns';
+    src: url('seriousshanns-lightitalic-webfont.woff2') format('woff2'),
+         url('seriousshanns-lightitalic-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
