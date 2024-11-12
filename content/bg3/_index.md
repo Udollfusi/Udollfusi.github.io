@@ -1,3 +1,3 @@
 +++
-title = "Baldur's Gate 3"
+title = "BG3"
 +++
