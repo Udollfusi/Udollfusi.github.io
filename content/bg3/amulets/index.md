@@ -5,7 +5,7 @@ title = 'Amulets'
 
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
 
-Here's an [annotated screenshot](Cephalopocalypse%20final%20rings%20annotated.png) from the end of [The BEST AMULETS](https://youtu.be/FqDSlLv9HkQ?si=N12VfXCtWn_75K4y).
+Here's an [annotated screenshot](Cephalopocalypse%20final%20neckware.png) from the end of [The BEST AMULETS](https://www.youtube.com/watch?v=23SPY6-dFfw).
 
 ### Final List
 
