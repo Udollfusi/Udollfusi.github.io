@@ -4,7 +4,7 @@ title = "Rings"
 +++
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
 
-Here's an [annotated screenshot](Cephalopocalypse%20final%20rings%20annotated.png) from the end of [ULTIMATE Guide to Rings](https://youtu.be/FqDSlLv9HkQ?si=N12VfXCtWn_75K4y).
+Here's an [annotated screenshot](Cephalopocalypse%20final%20rings%20annotated.png) from the end of [ULTIMATE Guide to Rings](https://www.youtube.com/watch?v=FqDSlLv9HkQ).
 
 ### Final List
 
