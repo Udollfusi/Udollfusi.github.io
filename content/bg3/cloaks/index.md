@@ -9,8 +9,6 @@ Here's an [screenshot](Cephalopocalypse%20final%20cloaks.png) from the end of [T
 
 ### Final List
 
-Best cloaks
-
 'S' Tier
 
 * Cloak of the Weave
