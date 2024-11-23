@@ -2,6 +2,7 @@
 date = '2024-11-11T11:28:24-08:00'
 title = "Rings"
 +++
+
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
 
 Here's an [annotated screenshot](Cephalopocalypse%20final%20rings%20annotated.png) from the end of [ULTIMATE Guide to Rings](https://www.youtube.com/watch?v=FqDSlLv9HkQ).
