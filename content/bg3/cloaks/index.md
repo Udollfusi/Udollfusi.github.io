@@ -9,14 +9,14 @@ Here's an [screenshot](Cephalopocalypse%20final%20cloaks.png) from the end of [T
 
 ### Final List
 
-'S' Tier
+"S" Tier
 
 * Cloak of the Weave
 * Cloak of Displacement
 * Cloak of Protection
 * Deathstalker Mantle
 
-'A' Tier
+"A" Tier
 
 * Shade-Slayer Cloak
 * Mantle of the Holy Warrior
