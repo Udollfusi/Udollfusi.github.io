@@ -10,27 +10,27 @@ Here's a [screenshot](Cephalopocalypse%20final%20boots.png) from the end of [The
 
 ### Final List
 
-The **Disintegrating Night Walkers** "are probably the best boots in the game."
+The [**Disintegrating Night Walkers**](https://bg3.wiki/wiki/Disintegrating_Night_Walkers) "are probably the best boots in the game."
 
 The Rest of the Best
 
-* **Helldusk Boots**
-* Monks: Boots of Uninhibited Kushigo
-* Need more AC: Evasive Shoes
-* Stacking reverberation: Boots of Stormy Clamour
+* [**Helldusk Boots**](https://bg3.wiki/wiki/Helldusk_Boots)
+* Monks: [Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo)
+* Need more AC: [Evasive Shoes](https://bg3.wiki/wiki/Evasive_Shoes)
+* Stacking reverberation: [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)
 
 ### The rest of the top tiers
 
 "S" Tier
 
-* Vital Conduit Boots
-* Boots of Speed
-* Boots of Aid and Comfort
+* [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)
+* [Boots of Speed](https://bg3.wiki/wiki/Boots_of_Speed)
+* [Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)
 
 "A" Tier
 
-* Boots of Psionic Movement
-* Bonespike Boots
-* The Watersparkers
-* Linebreaker Boots
-* Boots of Striding
+* [Boots of Psionic Movement](https://bg3.wiki/wiki/Boots_of_Psionic_Movement)
+* [Bonespike Boots](https://bg3.wiki/wiki/Bonespike_Boots)
+* [The Watersparkers](https://bg3.wiki/wiki/The_Watersparkers)
+* [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker_Boots)
+* [Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)
