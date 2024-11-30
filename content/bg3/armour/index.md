@@ -5,6 +5,8 @@ title = 'Armour'
 
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
 
+## Categories
+
 * [Robes, Clothes, and Cloth](#robes)
 * [Light Armour](#light-armour)
 * [Medium Armour](#medium-armour)
