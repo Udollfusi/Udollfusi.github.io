@@ -5,7 +5,7 @@ title = 'Cloaks'
 
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
 
-Here's an [screenshot](Cephalopocalypse%20final%20cloaks.png) from the end of [The COOLEST ITEMS in BG3](https://www.youtube.com/watch?v=MbZ0r-Tfixg).
+Here's a [screenshot](Cephalopocalypse%20final%20cloaks.png) from the end of [The COOLEST ITEMS in BG3](https://www.youtube.com/watch?v=MbZ0r-Tfixg).
 
 ### Final List
 
