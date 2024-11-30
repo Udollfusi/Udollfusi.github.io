@@ -11,43 +11,43 @@ Here's an [annotated screenshot](Cephalopocalypse%20final%20rings%20annotated.pn
 
 Best rings
 
-* Strange Conduit Ring
-* Callous Glow Ring
-* Risky Ring
-* Shadow Cloaked Ring
+* [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)
+* [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)
+* [Risky Ring](https://bg3.wiki/wiki/Risky_Ring)
+* [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)
 
 For radiant orb users
 
-* Coruscation Ring
-* Band of the Mystic Scoundrel
+* [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)
+* [Band of the Mystic Scoundrel](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel)
 
 Healers
 
-* The Whispering Promise
-* Ring of Regeneration
+* [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)
+* [Ring of Regeneration](https://bg3.wiki/wiki/Ring_of_Regeneration)
 
 Group filler
 
-* Ring of Protection
-* Crypt Lorg Ring
+* [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)
+* [Crypt Lorg Ring](https://bg3.wiki/wiki/Crypt_Lord_Ring)
 
 ### The rest of the top tiers
 
 "S" Tier
 
-* Caustic Band
-* Crusher's Ring
-* Ring of Evasion
-* Snowburst Ring
+* [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
+* [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
+* [Ring of Evasion](https://bg3.wiki/wiki/Ring_of_Evasion)
+* [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)
 
 "A" Tier
 
-* Bracing Band
-* Ring of Absolute Force
-* ~~Ring of Arcane Synergy~~
-* Ring of Salving
-* Smuggler's Ring
-* The Sparkswall
-* Eversight Ring
-* Killer's Sweetheart
-* Ring of Spiteful Thunder
+* [Bracing Band](https://bg3.wiki/wiki/Bracing_Band)
+* [Ring of Absolute Force](https://bg3.wiki/wiki/Ring_of_Absolute_Force)
+* [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)
+* [Ring of Salving](https://bg3.wiki/wiki/Ring_of_Salving)
+* [Smuggler's Ring](https://bg3.wiki/wiki/Smuggler%27s_Ring)
+* [The Sparkswall](https://bg3.wiki/wiki/The_Sparkswall)
+* [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring)
+* [Killer's Sweetheart](https://bg3.wiki/wiki/Killer%27s_Sweetheart)
+* [Ring of Spiteful Thunder](https://bg3.wiki/wiki/Ring_of_Spiteful_Thunder)

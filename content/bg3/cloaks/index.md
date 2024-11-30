@@ -11,14 +11,14 @@ Here's a [screenshot](Cephalopocalypse%20final%20cloaks.png) from the end of [Th
 
 "S" Tier
 
-* Cloak of the Weave
-* Cloak of Displacement
-* Cloak of Protection
-* Deathstalker Mantle
+* [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)
+* [Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)
+* [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)
+* [The Deathstalker Mantle](https://bg3.wiki/wiki/The_Deathstalker_Mantle)
 
 "A" Tier
 
-* Shade-Slayer Cloak
-* Mantle of the Holy Warrior
-* Vivacious Cloak
-* Cloak of Cunning Brume
+* [Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer_Cloak)
+* [Mantle of the Holy Warrior](https://bg3.wiki/wiki/Mantle_of_the_Holy_Warrior)
+* [Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)
+* [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)

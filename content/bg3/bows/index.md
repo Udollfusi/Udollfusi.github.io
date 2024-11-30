@@ -12,27 +12,27 @@ Here's an [annotated screenshot](Cephalopocalypse%20final%20bows%20annotated.png
 
 Best Bows
 
-1. The Dead Shot
-1. Titanstring Bow
+1. [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
+1. [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow)
 
 Best Hand Crossbow Combos
 
-* General: Hellfire Hand Crossbow and Ne'er Misser
-* With Bhaalist Armor: Hellfire Hand Crossbow and +2 Hand Crossbow
+* General: [Hellfire Hand Crossbow](https://bg3.wiki/wiki/Hellfire_Hand_Crossbow) and [Ne'er Misser](https://bg3.wiki/wiki/Ne%27er_Misser)
+* With Bhaalist Armor: [Hellfire Hand Crossbow](https://bg3.wiki/wiki/Hellfire_Hand_Crossbow) and [+2 Hand Crossbow](https://bg3.wiki/wiki/Hand_Crossbow_%2B2)
 
 ### The rest of the top tiers
 
 "S" Tier
 
-* Vicious Shortbow (especially if making lots of crits)
-* Hellrider Longbow (non-archery character)
-* Darkfire Shortbow (non-archery character)
-* +1 Hand Crossbow (best hand crossbow when it becomes available)
+* [Vicious Shortbow](https://bg3.wiki/wiki/Vicious_Shortbow) (especially if making lots of crits)
+* [Hellrider Longbow](https://bg3.wiki/wiki/Hellrider_Longbow) (non-archery character)
+* [Darkfire Shortbow](https://bg3.wiki/wiki/Darkfire_Shortbow) (non-archery character)
+* [+1 Hand Crossbow](https://bg3.wiki/wiki/Hand_Crossbow_%2B1) (best hand crossbow when it becomes available)
 
 "A" Tier
 
-* Gontr Mael
-* Blight Bringer
-* Least Expected
-* Harold
-* Bow of the Banshee
+* [Gontr Mael](https://bg3.wiki/wiki/Gontr_Mael)
+* [Blightbringer](https://bg3.wiki/wiki/Blightbringer)
+* [Least Expected](https://bg3.wiki/wiki/Least_Expected)
+* [Harold](https://bg3.wiki/wiki/Harold)
+* [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee)
