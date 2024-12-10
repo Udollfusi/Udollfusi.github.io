@@ -7,6 +7,8 @@ Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTu
 
 Here's an [annotated screenshot](Cephalopocalypse%20final%20rings%20annotated.png) from the end of [ULTIMATE Guide to Rings](https://www.youtube.com/watch?v=FqDSlLv9HkQ).
 
+Note: The [Shapeshifter's Boon Ring](https://bg3.wiki/wiki/Shapeshifter%27s_Boon_Ring) is used to guarantee passing the Religion check for the [Mirror of Loss](https://bg3.wiki/wiki/Mirror_of_Loss).
+
 ### Final List
 
 Best rings
