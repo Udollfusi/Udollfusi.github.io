@@ -1,6 +1,5 @@
 +++
 date = '2024-12-08T11:16:00-08:00'
-draft = true
 title = 'Melee Weapons'
 +++
 
@@ -155,12 +154,12 @@ Here's an [annotated screenshot](Cephalopocalypse%20final%202-handed%20weapons%2
 
 ### The Best
 
-* [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran%27s_Giantslayer) (greatsword)
+* [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran%27s_Giantslayer) (greatsword) — best single-target
 * [Hellfire Greataxe](https://bg3.wiki/wiki/Hellfire_Greataxe) (greataxe) — best AoE in the game
 
 ### The rest of "S" Tier
 
-* [Souldbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker_Greatsword) (greatsword)
+* [Souldbreaker Greatsword](https://bg3.wiki/wiki/Soulbreaker_Greatsword) (greatsword) — +2 initiative
 * [Blooded Greataxe](https://bg3.wiki/wiki/Blooded_Greataxe) (greataxe)
 * [Everburn Blade](https://bg3.wiki/wiki/Everburn_Blade) (greatsword)
 * [Githyanki Greatsword](https://bg3.wiki/wiki/Githyanki_Greatsword) (greatsword)
@@ -169,6 +168,12 @@ Here's an [annotated screenshot](Cephalopocalypse%20final%202-handed%20weapons%2
 ### "A" Tier
 
 * [Hamarhraft](https://bg3.wiki/wiki/Hamarhraft) (maul)
+* [Jorgoral's Greatsword](https://bg3.wiki/wiki/Jorgoral%27s_Greatsword) (greatsword)
+* [Sussur Greatsword](https://bg3.wiki/wiki/Sussur_Greatsword) (greatsword)
+* [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) (greatsword)
+* [Punch-Drunk Bastard](https://bg3.wiki/wiki/Punch-Drunk_Bastard) (greatclub)
+* [Silver Sword of the Astral Plane](https://bg3.wiki/wiki/Silver_Sword_of_the_Astral_Plane) (greatsword)
+* [Sword of Chaos](https://bg3.wiki/wiki/Sword_of_Chaos) (greatswords)
 
 ---
 
