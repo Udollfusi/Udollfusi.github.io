@@ -24,7 +24,7 @@ Depending on party composition
 * [Surgeon's Subjugation Amulet](https://bg3.wiki/wiki/Surgeon%27s_Subjugation_Amulet)
 * [Unflinching Protector Amulet](https://bg3.wiki/wiki/Unflinching_Protector_Amulet)
 * [Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder_Amulet)
-* [Khalid's Gift](https://bg3.wiki/wiki/Khalid%27s_Gift) (basically frees up a feat on a Wisdom-based character)
+* [Khalid's Gift](https://bg3.wiki/wiki/Khalid%27s_Gift) — WIS +1
 
 ### The rest of the top tiers
 
