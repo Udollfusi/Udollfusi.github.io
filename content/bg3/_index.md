@@ -9,6 +9,7 @@ title = "BG3"
 [Boots](boots/)
 [Bows](bows/)
 [Cloaks](cloaks/)
+[Gloves](gloves/)
 [Helmets](helmets/)
 [Melee Weapons](melee-weapons/)
 [Rings](rings/)
