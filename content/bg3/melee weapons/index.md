@@ -73,7 +73,7 @@ Here's a [screenshot](Cephalopocalypse%20final%201-handed%20martial%20weapons.pn
 
 ## Polearms
 
-Here's a [screenshot](Cephalopocalypse%20final%20polearms.png) from the end of [The BEST POLEARMS](https://www.youtube.com/watch?v=GunWjIpdxb0). Spears are versatile simple weapons. Glaives, halberds, and pikes are two-handed martial weapons.
+Here's an [annotated screenshot](Cephalopocalypse%20final%20polearms%20annotated.png) from the end of [The BEST POLEARMS](https://www.youtube.com/watch?v=GunWjIpdxb0). Spears are versatile simple weapons. Glaives, halberds, and pikes are two-handed martial weapons.
 
 ### "S" Tier
 
@@ -174,7 +174,7 @@ Here's an [annotated screenshot](Cephalopocalypse%20final%202-handed%20weapons%2
 
 ## Versatile Weapons
 
-Here's a [screenshot](Cephalopocalypse%20final%20versatile%20weapons.png) from the end of [The STRONGEST WEAPONS](https://www.youtube.com/watch?v=hhbxLbwDenw). This ranking includes battleaxes, longswords, tridents, and warhammers. [Quarterstaffs](#staves) and [spears](#polearms) are ranked elsewhere.
+Here's an [annotated screenshot](Cephalopocalypse%20final%20versatile%20weapons%20annotated.png) from the end of [The STRONGEST WEAPONS](https://www.youtube.com/watch?v=hhbxLbwDenw). This ranking includes battleaxes, longswords, tridents, and warhammers. [Quarterstaffs](#staves) and [spears](#polearms) are ranked elsewhere.
 
 ### The Best
 
