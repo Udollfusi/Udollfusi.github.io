@@ -53,14 +53,14 @@ Here's an [annotated screenshot](Cephalopocalypse%20final%20armour%20light%20ann
 
 ### The Rest of "S" Tier
 
-* [Armour of the Sporekeeper](https://bg3.wiki/wiki/Armour_of_the_Sporekeeper)
-* [Armour of Moonbasking](https://bg3.wiki/wiki/Armour_of_Moonbasking)
+* [Armour of the Sporekeeper](https://bg3.wiki/wiki/Armour_of_the_Sporekeeper) (Circle of Spores Druid)
+* [Armour of Moonbasking](https://bg3.wiki/wiki/Armour_of_Moonbasking) (Circle of the Moon Druid)
 * [+2 Studded Leather](https://bg3.wiki/wiki/Studded_Leather_Armour_%2B2)
 * [Spidersilk Armour](https://bg3.wiki/wiki/Spidersilk_Armour)
 
 ### "A" Tier
 
-* [Armour of Landfall](https://bg3.wiki/wiki/Armour_of_Landfall)
+* [Armour of Landfall](https://bg3.wiki/wiki/Armour_of_Landfall) (Circle of the Land Druid)
 * [Drow Studded Leather](https://bg3.wiki/wiki/Drow_Studded_Leather_Armour)
 * [Studded Leather](https://bg3.wiki/wiki/Studded_Leather_Armour)
 
