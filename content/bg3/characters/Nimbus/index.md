@@ -12,23 +12,28 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 
 | Class  | Minimum Levels[^minlev] | Progression |
 | ------ | :----------------: | :---------- |
-| Bard   | 3                  |  |
-| Ranger | 3                  | 3 |
-| Rogue  | 3                  | 1,2,[^r3] |
+| Bard   | 3                  | 9,10,11[^cos],12[^aid] |
+| Ranger | 3                  | 3,4,5[^ra3],6[^shsh],7[^exa] |
+| Rogue  | 3                  | 1,2,8[^ro3] |
 
 [^minlev]: Extra Attack requires 5 levels of Ranger or 6 levels of College of Swords Bard.
-[^r3]: Subclass Assassin
+[^cos]: College of Swords
+[^aid]: Feat Ability Improvement Dexterity
+[^ra3]: Subclass Gloom Stalker
+[^shsh]: Feat Sharpshooter
+[^exa]: Extra Attack
+[^ro3]: Subclass Assassin
 
 ### Abilities
 
-|     | Starting | ASI | Ethel[^eh] | Everlasting Vigor | Patriar's | Mirror of Loss[^ml] | Final | Proficiency |
-| --- | -------: | :-: | :--------: | :---------------: | :-------: | :-----------------: | :---: | :---------: |
-| STR |  8 [0]   |     |            | +2                |           |                     | 10    | Ranger      |
-| DEX | 17 [9]   |     | +1         |                   |           | +2 (max 24)         | 20    | Rogue       |
-| CON | 16 [9]   |     |            |                   |           |                     | 16    |             |
-| INT | 10 [2]   |     |            |                   |           |                     | 10    | Rogue       |
-| WIS | 10 [2]   |     |            |                   |           |                     | 10    |             |
-| CHA | 13 [5]   |     |            |                   | +1        |                     | 14    |             |
+|     | Starting | ASI | Ethel[^eh] | Everlasting Vigour | Patriar's | Mirror of Loss[^ml] | Final | Proficiency |
+| --- | -------: | :-: | :--------: | :----------------: | :-------: | :-----------------: | :---: | :---------: |
+| STR |  8 [0]   |     |            | +2                 |           |                     | 10    |             |
+| DEX | 17 [9]   | +2  | +1         |                    |           | +2                  | 22    | Rogue       |
+| CON | 16 [9]   |     |            |                    |           |                     | 16    |             |
+| INT | 10 [2]   |     |            |                    |           |                     | 10    | Rogue       |
+| WIS | 10 [2]   |     |            |                    |           |                     | 10    |             |
+| CHA | 13 [5]   |     |            |                    | +1        |                     | 14    |             |
 
 [^eh]: Uncapped. Does not subsequently modify scores that are set to a specific value.
 [^ml]: Max 24. Does not subsequently modify scores that are set to a specific value. Refer to the [mirror guide](https://bg3.wiki/wiki/Guide:Mirror_of_Loss).
@@ -45,17 +50,17 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 | Arcana          |  INT  |               |           |
 | History         |  INT  | Ranger 1[^rk] |           |
 | Investigation   |  INT  | Rogue 1       |           |
-| Nature          |  INT  |               |           |
+| Nature          |  INT  | Ranger 1      |           |
 | Religion        |  INT  |               |           |
-| Animal Handling |  WIS  |               |           |
+| Animal Handling |  WIS  | Ranger 1      |           |
 | Insight         |  WIS  | Rogue 1       |           |
 | Medicine        |  WIS  | Dark Urge     |           |
 | Perception      |  WIS  | Elf           |           |
 | Survival        |  WIS  |               |           |
 | Deception       |  CHA  |               |           |
-| Intimidation    |  CHA  | Dark Urge     |           |
+| Intimidation    |  CHA  | Dark Urge     | Bard 3    |
 | Performance     |  CHA  |               |           |
-| Persuasion      |  CHA  |               |           |
+| Persuasion      |  CHA  | Bard 1        | Bard 3    |
 
 [^rk]: Ranger Knight for Favoured Enemy
 
@@ -67,11 +72,12 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 | Heavy Armour        | Ranger 1[^rk] |
 | Longbows            | Elf |
 | Longswords          | Elf, Bard 1, Rogue 1, Ranger 1 |
-| Light Armour        | Bard 1, Rogue 1 |
+| Light Armour        | Bard 1, Rogue 1, Ranger 1 |
 | Martial Weapons     | Ranger 1 |
-| Medium Armour       | Ranger 1 |
+| Medium Armour       | Ranger 1, Bard 3[^cos] |
 | Musical Instruments | Bard 1 |
 | Rapiers             | Bard 1, Rogue 1 |
+| Scimitars           | Bard 3[^cos] |
 | Shields             | Ranger 1 |
 | Shortbows           | Elf |
 | Shortswords         | Elf, Bard 1, Rogue 1 |
@@ -79,17 +85,16 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 ### Feats
 
 | Feat         | Level |
-| ------------ | ----- |
-| Sharpshooter | |
+| ------------ | :---: |
+| Sharpshooter | 6     |
+| ASI: DEX     | 12    |
 
 ### Fighting styles
 
 | Style | Source |
 | ----- | ------ |
-| Archery | Ranger 1 |
+| Archery | Ranger 2 |
 | Two-Weapon Fighting | Bard 3[^cos] |
-
-[^cos]: College of Swords
 
 ### Resistances
 
@@ -98,6 +103,51 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 | Fire       | Ranger 1[^wwf] |
 
 [^wwf]: Wasteland Wanderer: Fire for Natural Explorer
+
+
+### Spells
+
+#### Ranger 2
+
+* Longstrider
+* Speak with Animals
+
+#### Ranger 3
+
+* Enhance Leap
+
+#### Ranger 5
+
+* Pass Without Trace
+
+#### Bard 1
+
+* Cantrips
+    * Friends
+    * Minor Illusion
+* Spells
+    * Faerie Fire
+    * Feather Fall
+    * Tasha's Hideous Laughter
+    * Thunderwave
+
+#### Bard 2
+
+* Spells
+    * Charm Person
+
+#### Bard 3
+
+* Spells
+    * Invisibility
+
+#### Bard 4
+
+* Cantrips
+    * Light
+* Spells
+    * Hold Person
+
 
 ## Preferred item progressions
 
@@ -118,7 +168,7 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 1. Possible contenders for replacing The Graceful Cloth:
     1. [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail): **Medium armour**, AC 15, no limit to DEX modifier, Initiative +1, no penalty on steath checks. Sold by Quartermaster Talli.
     1. [Elegant Studded Leather](https://bg3.wiki/wiki/Elegant_Studded_Leather): Light armor, AC 14, Initiative +2, advantage on stealth checks, Shield as a reaction once per short rest. Found in High Security Vault n^o^9 (Rakath Glitterbeard's).
-    1. [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility): **Medium armour**, AC 17, no limit to DEX modifier, no penalty on stealth checks, saving throws +2. Sold by Gloomy Fentonson.
+1. [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility): **Medium armour**, AC 17, no limit to DEX modifier, no penalty on stealth checks, saving throws +2. Sold by Gloomy Fentonson.
 
 ### Boots
 
