@@ -27,6 +27,7 @@ Best Hand Crossbow Combos
 * [Vicious Shortbow](https://bg3.wiki/wiki/Vicious_Shortbow) (especially if making lots of crits)
 * [Hellrider Longbow](https://bg3.wiki/wiki/Hellrider_Longbow) (non-archery character)
 * [Darkfire Shortbow](https://bg3.wiki/wiki/Darkfire_Shortbow) (non-archery character)
+* [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness) (non-archery character)
 * [+1 Hand Crossbow](https://bg3.wiki/wiki/Hand_Crossbow_%2B1) (best hand crossbow when it becomes available)
 
 "A" Tier
