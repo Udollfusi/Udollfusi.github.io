@@ -8,6 +8,8 @@ title = 'Nimbus'
 
 Wood elf stealth ranged attack something something. Probably a rogue/swordsbard mix. Maybe some gloomstalker? Assuming high DEX so ideally no DEX cap on armour. Bow or throw? Probably want something else entirely if throwing. 🤔 Assuming bow. And let's assume Dark Urge, because interesting.
 
+2025-01-11: I prototyped it with an existing level 12 wood elf, and the stealth thing doesn't work very well in broad daylight.
+
 ### Leveling sequence
 
 | Class  | Minimum Levels[^minlev] | Progression |
