@@ -8,7 +8,7 @@ title = 'Nimbus'
 
 Wood elf stealth ranged attack something something. Probably a rogue/swordsbard mix. Maybe some gloomstalker? Assuming high DEX so ideally no DEX cap on armour. Bow or throw? Probably want something else entirely if throwing. 🤔 Assuming bow. And let's assume Dark Urge, because interesting.
 
-2025-01-11: I prototyped it with an existing level 12 wood elf, and the stealth thing doesn't work very well in broad daylight.
+2025-01-11: I prototyped it with an existing level 12 wood elf. The stealth thing doesn't work very well in broad daylight. It seems like this is a build that does fine through act 1, rocks act 2, and then gets destroyed in some key battles in act 3. The main problem with the halfling swordsbard archer is the lack of longbow proficiency. Wood elves have longbow proficiency. Maybe try a straight 12-level swordsbard? Will prototype that next. Will emphasize DEX over CHA and see how that works out. It would be nice to have the third feat, too. Sharpshooter, Alert, and ASI; pick two.
 
 ### Leveling sequence
 
