@@ -78,7 +78,7 @@ Wood elf stealth ranged attack something something. Trying DEX-focused pure swor
 |  4    | Bard   | Blade Ward | Lesser Restoration | Feat: *Sharpshooter* |
 |  5    | Ranger |          |        | *Ranger Knight*, *Wasteland Wanderer: Fire* |
 |  6    | Ranger |          | Enhance Leap, Fog Cloud | *Archery* |
-|  7    | Bard   |          | Glyph of Warding | |
+|  7    | Bard   |          | Glyph of Warding; ~~Cure Wounds~~ Silence | |
 |  8    | Bard   |          | Enhance Ability | |
 |  9    | Bard   |          | Greater Invisibility | |
 | 10    | Bard   |          | Freedom of Movement | Feat: *ASI DEX* |
@@ -201,3 +201,84 @@ Wood elf stealth ranged attack something something. Trying DEX-focused pure swor
 - [Spellcrux Amulet](https://bg3.wiki/wiki/Spellcrux_Amulet): Worn by the Warden in Moonrise Towers Prison.
 - [Markoheshkir](https://bg3.wiki/wiki/Markoheshkir): Found in Ramazith's Tower.
 - [Staff of Spellpower](https://bg3.wiki/wiki/Staff_of_Spellpower): Found in the House of Hope.
+
+
+## Locations
+
+### Act 1
+
+1. Harper Outpost SW of Druid Grove
+1. Risen Road
+1. Zentarim
+1. Goblins
+1. Mushrooms
+1. Arcane Tower
+1. Grymforge
+1. Lady Esther
+1. Rosymorn Monastery
+1. Crèche Y'llek
+
+### Act 2
+
+1. Last Light
+1. Shadowlands
+1. Lann Tarv
+1. House of Healing
+1. Guantlet of Shar
+
+### Act 3
+
+1. Rivington
+1. Wyrm's Rock
+1. Stormshore
+1. Devil's Fee
+1. Counting House
+1. Temple of Shar (maybe)
+1. House of Hope
+1. Ansur (MAYBE)
+
+## Quests and related interactions
+
+### Act 1
+
+1. Explore the Ruins
+1. Free Lae'zel
+1. Convince Rolan to stay
+1. Return the Locket - pickpocket Meli
+1. Save Arabella
+1. Investigate the Beach
+1. Find Your Belongings
+    1. Wait 30 seconds after opening trading screen with Mattis
+    1. Silfy needs to successfully pickpocket
+    1. Intimidate Silfy into directing us to Mol
+    1. Tell Doni we want to see the "Dragon's Lair" (must complete Investigate the Beach)
+1. Rescue the Gnome
+1. Search the Cellar / Ancient Tome
+1. Find the Missing Shipment
+1. Free the Artist (might as well if I have the cash; might get bored in Act 3)
+1. Save Mayrina
+1. Steal the Sacred Idol
+    1. Must start before resolving the main grove/goblin quests
+    1. Let's go stealth
+1. Hellion's Heart stuff with Dammon???
+1. Shadowheart noblestalk thing (untested sequence)
+    1. Talk to Shadowheart until get memories discussion
+    1. Get noblestalk spiel from Derryth
+    1. Give noblestalk to Shadowheart immediately?
+    1. Talk to Shadowheart about consuming mushroom
+1. Avenge Glut's Circle / Cure the Poisoned Gnome
+1. Deliver Nere's Head
+1. Blind the Absolute
+
+### Act 2
+
+1. Find Rolan in the Shadows
+1. Balthazar's Experiment (Shadow Lantern) - need Gale
+1. Rescue the Tieflings
+1. Rescue Wulbren
+1. Break Yurgir's Contract
+
+### Act 3
+
+1. Dolor
+1. Ravenguard (maybe)
