@@ -39,7 +39,7 @@ Group filler
 
 * [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
 * [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
-* [Ring of Evasion](https://bg3.wiki/wiki/Ring_of_Evasion)
+* [Ring of Evasion](https://bg3.wiki/wiki/Ring_of_Evasion) (only available with Gale origin)
 * [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)
 
 "A" Tier
