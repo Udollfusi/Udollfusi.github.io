@@ -10,7 +10,7 @@ Wood elf stealth ranged attack something something. Trying DEX-focused pure swor
 
 ### Abilities
 
-|     | Starting | ASI | Ethel[^eh] | Everlasting Vigour | Patriar's | Mirror of Loss[^ml] | Final | Proficiency |
+|     | Starting | ASI | Ethel[^unc] | Everlasting Vigour[^araj] | Patriar's | Mirror of Loss[^ml] | Final | Proficiency |
 | --- | -------: | :-: | :--------: | :----------------: | :-------: | :-----------------: | :---: | :---------: |
 | STR |  8 [0]   |     |            | +2                 |           |                     | 10    |             |
 | DEX | 17 [9]   | +2  | +1         |                    |           | +2                  | 22    | Bard        |
@@ -19,7 +19,8 @@ Wood elf stealth ranged attack something something. Trying DEX-focused pure swor
 | WIS | 10 [2]   |     |            |                    |           |                     | 10    |             |
 | CHA | 13 [5]   |     |            |                    | +1        |                     | 14    | Bard        |
 
-[^eh]: Uncapped. Does not subsequently modify scores that are set to a specific value.
+[^unc]: Uncapped. Does not subsequently modify scores that are set to a specific value.
+[^araj]: Must convince Astarion to bite Araj Oblodra. Uncapped. Does not subsequently modify scores that are set to a specific value.
 [^ml]: Max 24. Does not subsequently modify scores that are set to a specific value. Refer to the [mirror guide](https://bg3.wiki/wiki/Guide:Mirror_of_Loss).
 
 
