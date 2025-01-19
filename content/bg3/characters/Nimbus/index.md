@@ -6,36 +6,18 @@ title = 'Nimbus'
 
 ## Concept
 
-Wood elf stealth ranged attack something something. Probably a rogue/swordsbard mix. Maybe some gloomstalker? Assuming high DEX so ideally no DEX cap on armour. Bow or throw? Probably want something else entirely if throwing. 🤔 Assuming bow. And let's assume Dark Urge, because interesting.
-
-2025-01-11: I prototyped it with an existing level 12 wood elf. The stealth thing doesn't work very well in broad daylight. It seems like this is a build that does fine through act 1, rocks act 2, and then gets destroyed in some key battles in act 3. The main problem with the halfling swordsbard archer is the lack of longbow proficiency. Wood elves have longbow proficiency. Maybe try a straight 12-level swordsbard? Will prototype that next. Will emphasize DEX over CHA and see how that works out. It would be nice to have the third feat, too. Sharpshooter, Alert, and ASI; pick two. The only thing I'll miss versus starting with a true martial class is heavy armour proficiency, but with a high DEX I'd potentially only want that for helms.
-
-### Leveling sequence
-
-| Class  | Minimum Levels[^minlev] | Progression |
-| ------ | :----------------: | :---------- |
-| Bard   | 3                  | 9,10,11[^cos],12[^aid] |
-| Ranger | 3                  | 3,4,5[^ra3],6[^shsh],7[^exa] |
-| Rogue  | 3                  | 1,2,8[^ro3] |
-
-[^minlev]: Extra Attack requires 5 levels of Ranger or 6 levels of College of Swords Bard.
-[^cos]: College of Swords
-[^aid]: Feat Ability Improvement Dexterity
-[^ra3]: Subclass Gloom Stalker
-[^shsh]: Feat Sharpshooter
-[^exa]: Extra Attack
-[^ro3]: Subclass Assassin
+Wood elf stealth ranged attack something something. Trying DEX-focused pure swordsbard. Assuming high DEX so ideally no DEX cap on armour. Do I need Archery Fighting Style or a third feat? If the third feat is ASI DEX, then that's Defence plus half of Archery, but not until level 12. Only class with Fighting Style at level 1 is Fighter. Would give proficiency in martial weapons and shields. Shields might be useful, but don't care about adding martial weapons. Bard 10 and Ranger 2? Pick up fire resistance[^wwf] and heavy armour proficiency after one level and archery after second level. Second level also gives level 1 ranger spells, including Enhance Leap and Fog Cloud. Multiclass into Ranger gives martial weapons and shields. So if multiclassing into martial weapons anyway, don't need wood elf for longbow. Is there a better race choice? The only useful options are lightfoot halfling (slow and short) and githyanki (get misty step and enhance leap; get my CHA proficiencies with astral knowledge?). Wood elf then, with Charlatan background.
 
 ### Abilities
 
 |     | Starting | ASI | Ethel[^eh] | Everlasting Vigour | Patriar's | Mirror of Loss[^ml] | Final | Proficiency |
 | --- | -------: | :-: | :--------: | :----------------: | :-------: | :-----------------: | :---: | :---------: |
 | STR |  8 [0]   |     |            | +2                 |           |                     | 10    |             |
-| DEX | 17 [9]   | +2  | +1         |                    |           | +2                  | 22    | Rogue       |
+| DEX | 17 [9]   | +2  | +1         |                    |           | +2                  | 22    | Bard        |
 | CON | 16 [9]   |     |            |                    |           |                     | 16    |             |
-| INT | 10 [2]   |     |            |                    |           |                     | 10    | Rogue       |
+| INT | 10 [2]   |     |            |                    |           |                     | 10    |             |
 | WIS | 10 [2]   |     |            |                    |           |                     | 10    |             |
-| CHA | 13 [5]   |     |            |                    | +1        |                     | 14    |             |
+| CHA | 13 [5]   |     |            |                    | +1        |                     | 14    | Bard        |
 
 [^eh]: Uncapped. Does not subsequently modify scores that are set to a specific value.
 [^ml]: Max 24. Does not subsequently modify scores that are set to a specific value. Refer to the [mirror guide](https://bg3.wiki/wiki/Guide:Mirror_of_Loss).
@@ -43,59 +25,81 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 
 ### Skill proficiencies
 
-| Skill         | Ability | Proficiency   | Expertise |
-| --------------- | :---: | ------------- | --------- |
-| Athletics       |  STR  |               |           |
-| Acrobatics      |  DEX  | Rogue 1       |           |
-| Sleight of Hand |  DEX  | Rogue 1       |  Rogue 1  |
-| Stealth         |  DEX  | Wood elf      |  Rogue 1  |
-| Arcana          |  INT  |               |           |
-| History         |  INT  | Ranger 1[^rk] |           |
-| Investigation   |  INT  | Rogue 1       |           |
-| Nature          |  INT  | Ranger 1      |           |
-| Religion        |  INT  |               |           |
-| Animal Handling |  WIS  | Ranger 1      |           |
-| Insight         |  WIS  | Rogue 1       |           |
-| Medicine        |  WIS  | Dark Urge     |           |
-| Perception      |  WIS  | Elf           |           |
-| Survival        |  WIS  |               |           |
-| Deception       |  CHA  |               |           |
-| Intimidation    |  CHA  | Dark Urge     | Bard 3    |
-| Performance     |  CHA  |               |           |
-| Persuasion      |  CHA  | Bard 1        | Bard 3    |
-
-[^rk]: Ranger Knight for Favoured Enemy
+| Skill           | Ability | Proficiency    | Expertise |
+| --------------- | :-----: | -------------- | --------- |
+| Athletics       |   STR   |                |           |
+| Acrobatics      |   DEX   | Bard 1         |           |
+| Sleight of Hand |   DEX   | Charlatan      | Bard 3    |
+| Stealth         |   DEX   | Wood elf       | Bard 3    |
+| Arcana          |   INT   |                |           |
+| History         |   INT   | Ranger 1[^erk] |           |
+| Investigation   |   INT   | Ranger 1[^rmc] |           |
+| Nature          |   INT   |                |           |
+| Religion        |   INT   |                |           |
+| Animal Handling |   WIS   |                |           |
+| Insight         |   WIS   |                |           |
+| Medicine        |   WIS   |                |           |
+| Perception      |   WIS   | Elf            |           |
+| Survival        |   WIS   |                |           |
+| Deception       |   CHA   | Charlatan      |           |
+| Intimidation    |   CHA   | Bard 1         | Bard 10   |
+| Performance     |   CHA   |                |           |
+| Persuasion      |   CHA   | Bard 1         | Bard 10   |
 
 ### Selected equipment proficiencies
 
 | Proficiency         | Source |
 | ------------------- | ------ |
-| Hand Crossbows      | Bard 1, Rogue 1 |
-| Heavy Armour        | Ranger 1[^rk] |
-| Longbows            | Elf |
-| Longswords          | Elf, Bard 1, Rogue 1, Ranger 1 |
-| Light Armour        | Bard 1, Rogue 1, Ranger 1 |
-| Martial Weapons     | Ranger 1 |
-| Medium Armour       | Ranger 1, Bard 3[^cos] |
+| Hand Crossbows      | Bard 1, Ranger 1[^rmc] |
+| Heavy Armour        | Ranger 1[^erk] |
+| Longbows            | Elf, Ranger 1, Ranger 1[^rmc] |
+| Longswords          | Elf, Bard 1, Ranger 1[^rmc] |
+| Light Armour        | Bard 1, Ranger 1[^rmc] |
+| Martial Weapons     | Ranger 1[^rmc] |
+| Medium Armour       | Bard 3[^cos], Ranger 1[^rmc] |
 | Musical Instruments | Bard 1 |
-| Rapiers             | Bard 1, Rogue 1 |
-| Scimitars           | Bard 3[^cos] |
-| Shields             | Ranger 1 |
-| Shortbows           | Elf |
-| Shortswords         | Elf, Bard 1, Rogue 1 |
+| Rapiers             | Bard 1, Ranger 1[^rmc] |
+| Scimitars           | Bard 3[^cos], Ranger 1[^rmc] |
+| Shields             | Ranger 1[^rmc] |
+| Shortbows           | Elf, Ranger 1[^rmc] |
+| Shortswords         | Elf, Bard 1, Ranger 1[^rmc] |
+
+[^cos]: College of Swords
+[^erk]: Favoured Enemy: *Ranger Knight*
+[^rmc]: Proficiencies from multiclass into Ranger
+
+### Leveling sequence
+
+| Level | Class  | Cantrips | Spells | Other |
+| :---: | ------ | -------- | ------ | ----- |
+|  1    | Bard   | Friends, Minor Illusion | Cure Wounds, Feather Fall, Longstrider, Speak with Animals | |
+|  2    | Bard   |          | Faerie Fire |
+|  3    | Bard   |          | Invisibility; ~~Faerie Fire~~, Shatter | College of Swords: *Two-Weapon Fighting* |
+|  4    | Bard   | Blade Ward | Lesser Restoration | Feat: *Sharpshooter* |
+|  5    | Ranger |          |        | *Ranger Knight*, *Wasteland Wanderer: Fire* |
+|  6    | Ranger |          | Enhance Leap, Fog Cloud | *Archery* |
+|  7    | Bard   |          | Glyph of Warding | |
+|  8    | Bard   |          | Enhance Ability | |
+|  9    | Bard   |          | Greater Invisibility | |
+| 10    | Bard   |          | Freedom of Movement | Feat: *ASI DEX* |
+| 11    | Bard   |          | Greater Restoration | |
+| 12    | Bard   | Mage Hand | Silence, Haste[^msc], Misty Step[^msc] | |
+
+[^msc]: Magical Secrets
 
 ### Feats
 
 | Feat         | Level |
 | ------------ | :---: |
-| Sharpshooter | 6     |
-| ASI: DEX     | 12    |
+| Alert        |       |
+| ASI: DEX     | 10    |
+| Sharpshooter | 4     |
 
 ### Fighting styles
 
-| Style | Source |
-| ----- | ------ |
-| Archery | Ranger 2 |
+| Style               | Source       |
+| ------------------- | ------------ |
+| Archery             | Ranger 2     |
 | Two-Weapon Fighting | Bard 3[^cos] |
 
 ### Resistances
@@ -104,51 +108,8 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 | ---------- | ------ |
 | Fire       | Ranger 1[^wwf] |
 
-[^wwf]: Wasteland Wanderer: Fire for Natural Explorer
+[^wwf]: Natural Explorer: *Wasteland Wanderer: Fire*
 
-
-### Spells
-
-#### Ranger 2
-
-* Longstrider
-* Speak with Animals
-
-#### Ranger 3
-
-* Enhance Leap
-
-#### Ranger 5
-
-* Pass Without Trace
-
-#### Bard 1
-
-* Cantrips
-    * Friends
-    * Minor Illusion
-* Spells
-    * Faerie Fire
-    * Feather Fall
-    * Tasha's Hideous Laughter
-    * Thunderwave
-
-#### Bard 2
-
-* Spells
-    * Charm Person
-
-#### Bard 3
-
-* Spells
-    * Invisibility
-
-#### Bard 4
-
-* Cantrips
-    * Light
-* Spells
-    * Hold Person
 
 
 ## Preferred item progressions
@@ -168,9 +129,9 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 
 1. [The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth): AC 10, DEX +2 max 20, advantage on DEX checks, DEX saves +1, jump +1.5m, halves falling damage. Sold by Lady Esther.
 1. Possible contenders for replacing The Graceful Cloth:
-    1. [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail): **Medium armour**, AC 15, no limit to DEX modifier, Initiative +1, no penalty on steath checks. Sold by Quartermaster Talli.
+    1. [Yuan-Ti Scale Mail](https://bg3.wiki/wiki/Yuan-Ti_Scale_Mail): Medium armour, AC 15, no limit to DEX modifier, Initiative +1, no penalty on steath checks. Sold by Quartermaster Talli.
     1. [Elegant Studded Leather](https://bg3.wiki/wiki/Elegant_Studded_Leather): Light armor, AC 14, Initiative +2, advantage on stealth checks, Shield as a reaction once per short rest. Found in High Security Vault n^o^9 (Rakath Glitterbeard's).
-1. [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility): **Medium armour**, AC 17, no limit to DEX modifier, no penalty on stealth checks, saving throws +2. Sold by Gloomy Fentonson.
+1. [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility): Medium armour, AC 17, no limit to DEX modifier, no penalty on stealth checks, saving throws +2. Sold by Gloomy Fentonson.
 
 ### Boots
 
@@ -192,13 +153,6 @@ Wood elf stealth ranged attack something something. Probably a rogue/swordsbard 
 1. [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery): Ranged weapon attacks +2 damage. Sold by Grat the Trader (goblin).
 1. Maybe the [Wondrous Gloves](https://bg3.wiki/wiki/Wondrous_Gloves): AC +1. Held by a Mimic in Grymforge.
 
-
-### Desirable spells
-
-* Feather Fall (Level 1 ritual spell)
-* Haste (Level 3 sorcerer or wizard spell. Bard can obtain at level 10 via Magical Secrets)
-* Longstrider (Level 1 ritual spell)
-* Speak with Animals (Level 1 ritual spell)
 
 
 ## For support characters
