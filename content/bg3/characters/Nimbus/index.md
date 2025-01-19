@@ -136,7 +136,7 @@ Wood elf stealth ranged attack something something. Trying DEX-focused pure swor
 ### Boots
 
 1. [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers): Immune to enwebbed, entangled, and ensnared, and can't slip on grease or ice. Misty Step once per short rest. Worn by Nere.
-1. Maybe the [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots): Immune to prone and shove, Hellcrawler teleport once per short rest, can un-fail a saving throw as a reaction once per long rest.
+1. Maybe the [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots): Immune to prone and shove, Hellcrawler teleport once per short rest, can un-fail a saving throw as a reaction once per long rest. Found on the top floor of Wyrm's Rock Fortress.
 
 ### Bows
 
@@ -153,9 +153,51 @@ Wood elf stealth ranged attack something something. Trying DEX-focused pure swor
 1. [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery): Ranged weapon attacks +2 damage. Sold by Grat the Trader (goblin).
 1. Maybe the [Wondrous Gloves](https://bg3.wiki/wiki/Wondrous_Gloves): AC +1. Held by a Mimic in Grymforge.
 
+### Helmets
+
+1. [Dark Justiciar Helm](https://bg3.wiki/wiki/Dark_Justiciar_Helm): Saving throws +1 while Obscured. Near *Underdark - Ancient Forge* waypoint.
+1. [Grymskull Helm](https://bg3.wiki/wiki/Grymskull_Helm): Critical hit immunity, fire resistance, Hunter's Mark. On Grym.
+1. Maybe the [Holy Lance Helm](https://bg3.wiki/wiki/Holy_Lance_Helm): CON saves +1, Smite the Graceless (radiant damage on miss). Rosymorn Monastery.
+1. [Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm): Initiative +1 and Spell Save DC +1. Sold by Lann Tarv.
+1. Situational [Birthright](https://bg3.wiki/wiki/Birthright): CHA +2. Sold in Sorcerous Sundries.
+1. [Mask of Soul Perception](https://bg3.wiki/wiki/Mask_of_Soul_Perception): Attack +2, Initiative +2, Perception checks +2, and Detect Thoughts per short rest. Upstairs at Devil's Fee.
+1. Maybe [Helm of Balduran](https://bg3.wiki/wiki/Helm_of_Balduran): Critical hit and stun immunity, heal 2 per turn, AC +1, saving throws +1. Stone altar near Ansur.
+
+### Melee Weapons
+
+1. [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve): Finesse, Versatile. Sing/Shriek. In a rock in the Underdark.
+1. [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength): Light. STR 19. Top floor of Arcane Tower.
+1. [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King): Light, Finesse. Improved Critical and reroll 1 or 2 damage. Sold by A'jak'nir Jeera (Crèche Y'llek).
+1. [Ambusher](https://bg3.wiki/wiki/Ambusher): Light, Finesse. Initiative +1, advantage on Perception checks. Sold by Exxvikyap (Rivington General).
+1. Maybe [Duke Ravengard's Longsword](https://bg3.wiki/wiki/Duke_Ravengard%27s_Longsword): Versatile. CHA +2 (max 24). Carried by Duke Ulder Ravengard.
+1. [Dolor Amarus](https://bg3.wiki/wiki/Dolor_Amarus): Light, Finesse. On crit add 7 damage. Carried by Dolor.
+
+### Rings
+
+1. [Smuggler's Ring](https://bg3.wiki/wiki/Smuggler%27s_Ring): Stealth and Sleight of Hand +2, CHA -1. Hidden in a bush near broken bridge section of river in The Risen Road.
+1. [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection): AC +1, saves +1. Reward from Mol for completing *Steal the Sacred Idol*.
+1. [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring): Movement +3m. Worn by Crusher.
+1. [Caustic Band](https://bg3.wiki/wiki/Caustic_Band): Weapon damage +2 acid. Sold by Derryth Bonecloak.
+1. Maybe [The Sparkswall](https://bg3.wiki/wiki/The_Sparkswall): Resistance to lightning damage, can't be electrocuted. In the Arcane Tower's basement.
+1. [Risky Ring](https://bg3.wiki/wiki/Risky_Ring): Advantage on attack rolls and Disadvantage on saving throws. Sold by Araj Oblodra.
+1. Maybe the [Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring): Weapon damage +1d4 psychic while concentrating. In Inquisitor's Chamber at Creche Y'llek.
+1. [Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring): When dealing cold damage create 4.5m circle of ice around target(s). In the Last Light Inn.
+1. [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring): Damage +1d4 against obscured creatures. Carried by Shadow Mastiff Alpha.
+1. [Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring): Blinded immunity. In the House of Healing Morgue.
+1. Maybe the [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring): Damage +2 radiant against illuminated creatures. Found in the Gauntlet of Shar.
+
+### Shields
+
+1. [Absolute's Warboard](https://bg3.wiki/wiki/Absolute%27s_Warboard): Saves +1 if branded. Carried by Gut.
+1. [Adamantine Shield](https://bg3.wiki/wiki/Adamantine_Shield): Critical hit immunity, attacker Reeling on miss, Shield Blow. Forge it in the Adamantine Forge.
+1. [Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield): Initiative +3, advantage on perception checks, Shield Blow. Sold by Lann Tarv.
+1. Maybe [Justiciar's Greatshield](https://bg3.wiki/wiki/Justiciar%27s_Greatshield): Advantage on perception checks, Darkness Cloak per short rest, Shield Blow. Carried by Lyrthindor in the Gauntlet of Shar.
+1. Maybe [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress): Spellguard, Reflective Shell per short rest. Carried by Viconia DeVir.
 
 
 ## For support characters
 
 - Maybe the [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet): Restore up to level 3 spell slot. Sold by Omeluum.
 - [Spellcrux Amulet](https://bg3.wiki/wiki/Spellcrux_Amulet): Worn by the Warden in Moonrise Towers Prison.
+- [Markoheshkir](https://bg3.wiki/wiki/Markoheshkir): Found in Ramazith's Tower.
+- [Staff of Spellpower](https://bg3.wiki/wiki/Staff_of_Spellpower): Found in the House of Hope.
