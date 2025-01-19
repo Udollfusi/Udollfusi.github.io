@@ -128,7 +128,7 @@ Here's an [annotated screenshot](Cephalopocalypse%20final%20simple%20weapons%20a
 ### The Best
 
 1. [Devotee's Mace](https://bg3.wiki/wiki/Devotee%27s_Mace) (mace)
-1. [The Blood of Lathander](https://bg3.wiki/wiki/Find_the_Blood_of_Lathander) (mace)
+1. [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander) (mace)
 1. [Club of Hill Giant Strength](https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength) (club) — 19 STR
 
 ### The rest of "S" Tier
