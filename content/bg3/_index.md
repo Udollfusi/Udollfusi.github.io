@@ -18,6 +18,3 @@ title = "BG3"
 ## Notes
 
 [Trading](trading/)
-
-
----

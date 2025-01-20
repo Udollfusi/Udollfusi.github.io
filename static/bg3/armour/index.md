@@ -1,6 +1,8 @@
 +++
 date = '2024-11-29T17:14:00-08:00'
 title = 'Armour'
+[sitemap]
+  disable = true
 +++
 
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
