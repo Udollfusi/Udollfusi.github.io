@@ -1,5 +1,4 @@
 +++
-date = '2024-11-30T19:33:00-08:00'
 title = 'Helmets'
 [build]
   list = 'never'
