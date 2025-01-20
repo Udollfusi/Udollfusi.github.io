@@ -2,6 +2,8 @@
 date = '2025-01-11T10:50:00-08:00'
 draft = true
 title = 'Nimbus BRR'
+[build]
+  list = 'never'
 +++
 
 ## Concept

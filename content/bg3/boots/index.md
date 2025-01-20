@@ -1,6 +1,8 @@
 +++
 date = '2024-11-29T16:30:00-08:00'
 title = 'Boots'
+[build]
+  list = 'never'
 +++
 
 

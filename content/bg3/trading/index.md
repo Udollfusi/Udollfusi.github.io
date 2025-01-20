@@ -1,6 +1,8 @@
 +++
 date = '2024-11-11T20:59:04-08:00'
 title = 'Trading'
+[build]
+  list = 'never'
 +++
 
 ## Gold to raise Attitude

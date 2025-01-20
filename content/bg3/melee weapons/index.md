@@ -1,6 +1,8 @@
 +++
 date = '2024-12-08T11:16:00-08:00'
 title = 'Melee Weapons'
+[build]
+  list = 'never'
 +++
 
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.

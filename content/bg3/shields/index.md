@@ -1,6 +1,8 @@
 +++
 date = '2024-11-12T19:19:17-08:00'
 title = 'Shields'
+[build]
+  list = 'never'
 +++
 
 Credit to [Cephalopocalypse](https://www.youtube.com/@Cephalopocalypse) on YouTube for lots of informative Baldur's Gate 3 content.
