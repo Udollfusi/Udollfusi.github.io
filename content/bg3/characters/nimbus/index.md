@@ -8,8 +8,6 @@ title = 'Nimbus'
 
 Wood elf stealth ranged attack something something. Trying DEX-focused pure swordsbard. Assuming high DEX so ideally no DEX cap on armour. Do I need Archery Fighting Style or a third feat? If the third feat is ASI DEX, then that's Defence plus half of Archery, but not until level 12. Only class with Fighting Style at level 1 is Fighter. Would give proficiency in martial weapons and shields. Shields might be useful, but don't care about adding martial weapons. Bard 10 and Ranger 2? Pick up fire resistance[^wwf] and heavy armour proficiency after one level and archery after second level. Second level also gives level 1 ranger spells, including Enhance Leap and Fog Cloud. Multiclass into Ranger gives martial weapons and shields. So if multiclassing into martial weapons anyway, don't need wood elf for longbow. Is there a better race choice? The only useful options are lightfoot halfling (slow and short) and githyanki (get misty step and enhance leap; get my CHA proficiencies with astral knowledge?). Wood elf then, with Charlatan background.
 
-[Prior attempt as Bard/Rogue/Ranger](nimbus_brr/)
-
 ### Abilities
 
 |     | Starting | ASI | Ethel[^unc] | Everlasting Vigour[^araj] | Patriar's | Mirror of Loss[^ml] | Final | Proficiency |
